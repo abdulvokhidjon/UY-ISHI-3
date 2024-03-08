@@ -1,0 +1,11 @@
+h1{font-family: Arial, Helvetica, sans-serif;
+    font-size:55px ;
+    color: blue;}
+.class{font-family:Roboto;
+    color: blueviolet;}
+    #real{width: 400px;
+    border-style:double;
+border-color:green;
+border: width 10px;
+border: radius 10px;}
+body{background-color: blanchedalmond  !important;}
